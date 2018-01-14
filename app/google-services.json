@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277132229722",
+    "firebase_url": "https://testlogin-70f2d.firebaseio.com",
+    "project_id": "testlogin-70f2d",
+    "storage_bucket": "testlogin-70f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277132229722:android:53dccfa9b8f384d3",
+        "android_client_info": {
+          "package_name": "com.example.christian.factorytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277132229722-i1msk5soug9lmemca3lfthi78o69ca1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK-trpSwLDvUcJGhvuJi-x59a4nzvEZ_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
